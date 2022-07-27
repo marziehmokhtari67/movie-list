@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+body{
+   height:100vh;
+   width:100vw; 
+   font-family:fantasy;
+    
+    
+}
+.yellow-card{
+    background-color: rgb(255, 217, 0);
+    height:80px;
+    width:100%;
+}
